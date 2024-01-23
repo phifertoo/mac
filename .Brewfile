@@ -19,6 +19,7 @@ cask "sourcetree"
 # cask "docker" failed
 cask "github"
 cask "pgadmin4"
+cask "sourcetree"
 # cask "loom" failed
 cask "openlens"
 cask "postman"
