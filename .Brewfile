@@ -1,9 +1,9 @@
-tap "homebrew/cask"
+# tap "homebrew/cask" failed
 tap "homebrew/cask-versions"
 tap "go-task/tap"
 cask_args appdir: "/Applications"
 
-brew "awscli"
+# brew "awscli" failed
 brew "go-task"
 brew "k3d"
 brew "openssl"
@@ -12,15 +12,14 @@ brew "terraform"
 brew "yarn"
 
 cask "1password-cli"
-cask "copilot-money"
-# cask "docker"
+# cask "copilot-money"  failed
+# cask "docker" failed
 cask "github"
-cask "loom"
+# cask "loom" failed
 cask "openlens"
 cask "postman"
 cask "protonvpn"
 cask "zoom"
-
 
 # Add to chandlerroth/brew as cask
 # cask https://cdn.wacom.com/u/productsupport/drivers/mac/professional/WacomTablet_6.3.46-1.dmg from https://www.wacom.com/en-us/getting-started/wacom-intuos
