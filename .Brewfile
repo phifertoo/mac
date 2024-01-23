@@ -13,7 +13,7 @@ brew "yarn"
 
 cask "1password-cli"
 cask "copilot-money"
-cask "docker"
+# cask "docker"
 cask "github"
 cask "loom"
 cask "openlens"
