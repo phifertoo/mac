@@ -10,6 +10,7 @@ brew "openssl"
 brew "postgresql@15"
 brew "terraform"
 brew "yarn"
+# nvm requires additional configuration: see brew docs
 brew "nvm"
 
 cask "1password-cli"
