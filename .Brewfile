@@ -10,6 +10,7 @@ brew "openssl"
 brew "postgresql@15"
 brew "terraform"
 brew "yarn"
+brew "nvm"
 
 cask "1password-cli"
 cask "sourcetree"
