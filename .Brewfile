@@ -12,6 +12,7 @@ brew "terraform"
 brew "yarn"
 
 cask "1password-cli"
+cask "sourcetree"
 # cask "copilot-money"  failed
 # cask "docker" failed
 cask "github"
