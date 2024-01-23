@@ -15,6 +15,7 @@ cask "1password-cli"
 # cask "copilot-money"  failed
 # cask "docker" failed
 cask "github"
+cask "pgadmin4"
 # cask "loom" failed
 cask "openlens"
 cask "postman"
