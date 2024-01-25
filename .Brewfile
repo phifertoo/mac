@@ -7,7 +7,7 @@ cask_args appdir: "/Applications"
 brew "go-task"
 brew "k3d"
 brew "openssl"
-brew "postgresql@15"
+brew "postgresql"
 brew "terraform"
 brew "yarn"
 # nvm requires additional configuration: see brew docs
